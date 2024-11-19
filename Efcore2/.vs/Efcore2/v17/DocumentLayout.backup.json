@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|c:\\users\\sheki-komp\\desktop\\classhometask\\efcore2\\efcore2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|solutionrelative:efcore2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|c:\\users\\sheki-komp\\desktop\\classhometask\\efcore2\\efcore2\\models\\baskets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|solutionrelative:efcore2\\models\\baskets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|c:\\users\\sheki-komp\\desktop\\classhometask\\efcore2\\efcore2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|solutionrelative:efcore2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|c:\\users\\sheki-komp\\desktop\\classhometask\\efcore2\\efcore2\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|solutionrelative:efcore2\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|c:\\users\\sheki-komp\\desktop\\classhometask\\efcore2\\efcore2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|solutionrelative:efcore2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|c:\\users\\sheki-komp\\desktop\\classhometask\\efcore2\\efcore2\\migrations\\20241119011228_sjusuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|solutionrelative:efcore2\\migrations\\20241119011228_sjusuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|c:\\users\\sheki-komp\\desktop\\classhometask\\efcore2\\efcore2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CAFBDD-4B19-4595-8CF7-826C8F046190}|Efcore2\\Efcore2.csproj|solutionrelative:efcore2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbcontextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Migrations\\AppDbcontextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Efcore2\\Migrations\\AppDbcontextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Migrations\\AppDbcontextModelSnapshot.cs",
+              "RelativeToolTip": "Efcore2\\Migrations\\AppDbcontextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:12:36.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241119011228_sjusuu.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Migrations\\20241119011228_sjusuu.cs",
+              "RelativeDocumentMoniker": "Efcore2\\Migrations\\20241119011228_sjusuu.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Migrations\\20241119011228_sjusuu.cs",
+              "RelativeToolTip": "Efcore2\\Migrations\\20241119011228_sjusuu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:12:29.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Baskets.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Models\\Baskets.cs",
+              "RelativeDocumentMoniker": "Efcore2\\Models\\Baskets.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Models\\Baskets.cs",
+              "RelativeToolTip": "Efcore2\\Models\\Baskets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:57:57.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Efcore2\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Models\\Users.cs",
+              "RelativeToolTip": "Efcore2\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:57:29.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Efcore2\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Models\\Products.cs",
+              "RelativeToolTip": "Efcore2\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:57:18.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Context\\AppDbcontext.cs",
+              "RelativeDocumentMoniker": "Efcore2\\Context\\AppDbcontext.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Context\\AppDbcontext.cs",
+              "RelativeToolTip": "Efcore2\\Context\\AppDbcontext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:57:04.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Program.cs",
+              "RelativeDocumentMoniker": "Efcore2\\Program.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\classhometask\\Efcore2\\Efcore2\\Program.cs",
+              "RelativeToolTip": "Efcore2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:55:36.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
