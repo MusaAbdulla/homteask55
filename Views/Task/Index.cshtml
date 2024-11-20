@@ -1,0 +1,22 @@
+﻿
+
+@using WebApplication1.model
+@model List<Front>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <ul>
+        @foreach ( var item in Model)
+        {
+            <li>
+                @item.Title - @item.Deadline
+            </li>
+        }
+    </ul>
+</body>
+</html>
